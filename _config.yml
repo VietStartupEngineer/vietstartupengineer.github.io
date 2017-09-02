@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Khanh Dao
+name: Viet Startup Engineer
 url: https://zachholman.com/left
 description: A fantastic blog that is fantastic.
 twitter: holman
